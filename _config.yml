@@ -21,7 +21,7 @@ repository               : "garettk/garettk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Garett Kinney"
   pronouns         : # example: "she/her"  
   bio              : "SRE at WEX; MSCS student at UT Austin (online)"
