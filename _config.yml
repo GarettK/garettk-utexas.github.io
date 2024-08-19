@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Garett Kinney"
 description              : &description "SRE at WEX; MSCS student at UT Austin (online)"
-url                      : https://garettk-utexas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://garettk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "garettk-utexas.github.io"
 
